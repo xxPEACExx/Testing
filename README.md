@@ -1,2 +1,1 @@
-# ADISE_NU_MI_KA
-ADISE PROJECT
+Tesing with rest-assured
